@@ -11,3 +11,20 @@ nltk
 tensorflow==2.16.1
 tensorboard
 scikeras
+langchain
+python-dotenv
+langchain_community # loaders
+pypdf # pdf
+bs4 # web
+arxiv # research paper
+pymupdf
+wikipedia
+langchain-text-splitters
+lxml # html splitter
+langchain_openai # embeddubg
+chromadb # c++ 14+ distribution
+sentence_transformers # HF embedding
+langchain_huggingface
+tf_keras
+faiss-cpu
+langchain_chroma
