@@ -28,3 +28,4 @@ langchain_huggingface
 tf_keras
 faiss-cpu
 langchain_chroma
+langchain_core
