@@ -1,0 +1,1 @@
+ollama create codeguru -f modelfile
