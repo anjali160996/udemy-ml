@@ -34,3 +34,5 @@ youtube_transcript_api==0.6.1
 unstructured
 huggingface_hub
 gradio
+boto3
+awscli
